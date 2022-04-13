@@ -94,3 +94,5 @@ Don't forget to stop your azure web app after you are done playing with your pro
 You can do this either using the azure portal or cli with this command:
 
 `az group delete -n resource-group-web-app-demo`
+
+change 1
